@@ -4,6 +4,7 @@ import com.github.romankh3.coronadesinfector.infrastructure.InjectProperty;
 import com.github.romankh3.coronadesinfector.infrastructure.Singleton;
 
 @Singleton
+@Deprecated
 public class RecommendatorImpl implements Recommendator {
 
     @InjectProperty(value = "wisky")

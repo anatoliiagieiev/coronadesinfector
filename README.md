@@ -1,5 +1,5 @@
 ## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
+Repository with the example of creating own infrastructure of IOC. 
 
 ## Building
 ...
